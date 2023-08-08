@@ -1,0 +1,7 @@
+6
+ABC1111;Ferrari;LaFerrari;2013;7138740.00;carro;novo
+ABC2222;McLaren;Elva;2015;8668470.00;carro;novo
+ABC3333;Bentley;Bacalar;2020;9688290.00;carro;novo
+ABC4444;Aston Martin;Vulcan;2015;11727930.00;carro;novo
+ABC5555;Harley Davidson;Cosmic Starship;2014;1000000.00;moto;novo
+HWD1234;Chevrolet;D20;1999;50000.00;carro;teste

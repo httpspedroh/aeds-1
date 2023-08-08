@@ -1,0 +1,370 @@
+////////////////////////////////////////////////////////
+Descrição de dados:
+Todos os numeros de passagens possuem 6 numeros, sendo os dois primeiros identifica para aonde o voo está destinado 
+e os 4 seguintes a ordem de chegada ou fila de espera.
+Passagens iniciadas por 21 ---->>> BH-RIO
+Passagens iniciadas por 11 ---->>> BH-SAO PAULO
+Passagens iniciadas por 61 ---->>> BH-BRASÍLIA
+Passagens com 4 zeros estão na fila de espera
+//////////////////////////////////////////////////
+ID: 1
+Nome Completo: Isabella Carvalho
+CPF: 110.473.258-02
+Endereço: Quadra CL 301 Bloco B 1568
+Telefone: (61) 3154-7637
+N° PASSAGEM: 210100
+N° POLTRONA: 1A
+N° VOO: 5800
+Horário: 11:30
+
+ID: 2
+Nome Completo: Rafael Cavalcanti
+CPF: 421.680.918-97
+Endereço: Quadra SHIN QL 12 Conjunto 01 38
+Telefone: (61) 9153-7589
+N° PASSAGEM: 210101
+N° POLTRONA: 2A
+N° VOO: 5800
+Horário: 11:30
+
+ID: 3
+Nome Completo: José Carvalho
+CPF: 378.838.537-59
+Endereço: Quadra QNP 17 Conjunto K 1933
+Telefone: (61) 3292-8701
+N° PASSAGEM: 210102
+N° POLTRONA: 3A
+N° VOO: 5800
+Horário: 11:30
+
+ID: 4
+Nome Completo: Cauã Lima
+CPF: 243.101.535-18
+Endereço: Rua Coronel Vivida 895
+Telefone: (41) 9595-7278
+N° PASSAGEM: 210103
+N° POLTRONA: 4A
+N° VOO: 5800
+Horário: 11:30
+
+ID: 5
+Nome Completo: Ágatha Ribeiro
+CPF: 972.313.337-70
+Endereço: Rua Barão do Rio Branco 683
+Telefone: (16) 8276-9839
+N° PASSAGEM: 210104
+N° POLTRONA: 5A
+N° VOO: 5800
+Horário: 11:30
+ID: 6
+Nome Completo: Carla Sousa
+CPF: 497.326.668-03
+Endereço: Rua C1 - 003 616
+Telefone: (47) 4041-5142
+N° PASSAGEM: 210105
+N° POLTRONA: 1B
+N° VOO: 5800
+Horário: 11:30
+
+ID: 7
+Nome Completo: Beatriz Gomes
+CPF: 214.094.499-20
+Endereço: Rua Vereador Paulo Vignolo Silveira
+Telefone: (53) 9048-2250
+N° PASSAGEM: 210106
+N° POLTRONA: 2B
+N° VOO: 5800
+Horário: 11:30
+
+ID: 8
+Nome Completo: Gustavo Rodrigues
+CPF: 737.543.259-73
+Endereço: Rua Managuá 1437
+Telefone: (19) 3491-8147
+N° PASSAGEM: 210107
+N° POLTRONA: 3B
+N° VOO: 5800
+Horário: 11:30
+
+ID: 9
+Nome Completo: Evelyn Rocha
+CPF: 863.709.323-02
+Endereço: Rua José Juarez Antunes 1961
+Telefone: (24) 3717-7520
+N° PASSAGEM: 210108
+N° POLTRONA: 4B
+N° VOO: 5800
+Horário: 11:30
+
+ID: 10
+Nome Completo: Vitór Alves
+CPF: 826.650.709-01
+Endereço: Rua Irmão Cirilo 428
+Telefone: (46) 8136-6981
+N° PASSAGEM: 210109
+N° POLTRONA: 5B
+N° VOO: 5800
+Horário: 11:30
+
+ID: 11
+Nome Completo: Camila Castro
+CPF: 697.659.422-14
+N° PASSAGEM: 210000
+
+ID: 12
+Nome Completo: Rodrigo Ribeiro
+CPF: 903.582.666-37
+N° PASSAGEM: 210000
+
+ID: 13
+Nome Completo: Aline Azevedo
+CPF: 196.782.781-89
+N° PASSAGEM: 210000
+
+ID: 14
+Nome Completo: Emilly Melo
+CPF: 325.228.725-08
+N° PASSAGEM: 210000
+
+ID: 15
+Nome Completo: Ana Pinto
+CPF: 639.223.982-00
+N° PASSAGEM: 210000
+
+ID: 16
+Nome Completo: Gabrielle Barros
+CPF: 926.106.003-05
+Endereço: Praça Nobres 1467
+Telefone: (11) 2748-8465
+N° PASSAGEM: 110100
+N° POLTRONA: 1A
+N° VOO: 1125
+Horário: 15:00
+
+ID: 17
+Nome Completo: Luiza Pereira
+CPF: 856.540.998-84
+Endereço: Rua Dona Chiquinha de Mattos 602
+Telefone: (12) 4821-8974
+N° PASSAGEM: 110101
+N° POLTRONA: 2A
+N° VOO: 1125
+Horário: 15:00
+
+ID: 18
+Nome Completo: Pedro Santos
+CPF: 290.186.647-79
+Endereço: Rua Nossa Senhora das Graças 267
+Telefone: (82) 3641-7438
+N° PASSAGEM: 110102
+N° POLTRONA: 3A
+N° VOO: 1125
+Horário: 15:00
+
+ID: 19
+Nome Completo: Sofia Lima
+CPF: 648.534.819-25
+Endereço: Rua Júlio Vieira 1127
+Telefone: (68) 2268-4617
+N° PASSAGEM: 110103
+N° POLTRONA: 4A
+N° VOO: 1125
+Horário: 15:00
+
+ID: 20
+Nome Completo: Enzo Castro
+CPF: 187.926.148-58
+Endereço: Rua Sol Nascente 46
+Telefone: (41) 2962-7712
+N° PASSAGEM: 110104
+N° POLTRONA: 5A
+N° VOO: 1125
+Horário: 15:00
+
+ID: 21
+Nome Completo: Laura Almeida
+CPF: 542.792.114-65
+Endereço: Rua Canoas 875
+Telefone: (47) 3702-9325
+N° PASSAGEM: 110105
+N° POLTRONA: 1B
+N° VOO: 1125
+Horário: 15:00
+
+ID: 22
+Nome Completo: Davi Sousa
+CPF: 920.346.714-08
+Endereço: Rua Itápolis 908
+Telefone: (51) 2927-0981
+N° PASSAGEM: 110106
+N° POLTRONA: 2B
+N° VOO: 1125
+Horário: 15:00
+
+ID: 23
+Nome Completo: Manuela Oliveira
+CPF: 713.835.603-90
+Endereço: Rua do Bosque 1152
+Telefone: (16) 7820-9357
+N° PASSAGEM: 110107
+N° POLTRONA: 3B
+N° VOO: 1125
+Horário: 15:00
+
+ID: 24
+Nome Completo: Miguel Gomes
+CPF: 826.342.554-33
+Endereço: Rua Alameda dos Quinheiros 409
+Telefone: (14) 2522-4603
+N° PASSAGEM: 110108
+N° POLTRONA: 4B
+N° VOO: 1125
+Horário: 15:00
+
+ID: 25
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 110109
+N° POLTRONA: 5B
+N° VOO: 1125
+Horário: 15:00
+
+ID: 26
+Nome Completo: Miguel Souza
+CPF: 983.208.394-09
+N° PASSAGEM: 110000
+N° POLTRONA: 
+N° VOO: 
+Horário: 
+
+ID: 27
+Nome Completo: Luiza Lima
+CPF: 856.540.998-84
+N° PASSAGEM: 110000
+N° POLTRONA: 
+N° VOO: 
+Horário: 
+
+ID: 28
+Nome Completo: Pedro Santos
+CPF: 290.186.647-79
+N° PASSAGEM: 110000
+N° POLTRONA: 
+N° VOO: 
+Horário: 
+
+ID: 29
+Nome Completo: Sofia Lima
+CPF: 648.534.819-25
+N° PASSAGEM: 110000
+N° POLTRONA: 
+N° VOO: 
+Horário: 
+
+ID: 30
+Nome Completo: Enzo Castro
+CPF: 187.926.148-58
+N° PASSAGEM: 110000
+N° POLTRONA: 
+N° VOO: 
+Horário: 
+
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610101
+N° POLTRONA: 2A
+N° VOO: 4799
+Horário: 21:00
+
+ID: 33
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610102
+N° POLTRONA: 3A
+N° VOO: 4799
+Horário: 21:00
+
+ID: 34
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610103
+N° POLTRONA: 4A
+N° VOO: 4799
+Horário: 21:00
+
+ID: 35
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610104
+N° POLTRONA: 5A
+N° VOO: 4799
+Horário: 21:00
+
+ID: 36
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610105
+N° POLTRONA: 1B
+N° VOO: 4799
+Horário: 21:00
+
+ID: 37
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610106
+N° POLTRONA: 2B
+N° VOO: 4799
+Horário: 21:00
+
+ID: 38
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610107
+N° POLTRONA: 3B
+N° VOO: 4799
+Horário: 21:00
+
+ID: 39
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610108
+N° POLTRONA: 4B
+N° VOO: 4799
+Horário: 21:00
+
+ID: 40
+Nome Completo: Alice Santos
+CPF: 309.541.891-45
+Endereço: Rua Maria Montessori 1747
+Telefone: (67) 2226-8790
+N° PASSAGEM: 610109
+N° POLTRONA: 5B
+N° VOO: 4799
+Horário: 21:00
+
+ID: 41
+Nome Completo: Lorrayne
+CPF: teste
+Endereço: a
+Telefone: a
+N° PASSAGEM: 610000
+N° POLTRONA: N/A
+N° VOO: -1
